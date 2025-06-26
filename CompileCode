@@ -1,0 +1,1 @@
+g++ -std=c++17 -I boost_1_85_0 main.cpp -lssl -lcrypto -lws2_32 -lcrypt32 -o main
